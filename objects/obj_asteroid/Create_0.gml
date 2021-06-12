@@ -8,6 +8,3 @@ sprite_index = choose(
 
 direction = irandom_range(0,359);
 image_angle = irandom_range(0,359);
-
-speed = 1;
-rot_speed = irandom_range(-5,5);

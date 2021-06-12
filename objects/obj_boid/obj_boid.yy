@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_ship",
-    "path": "sprites/spr_ship/spr_ship.yy",
+    "name": "spr_boid",
+    "path": "sprites/spr_boid/spr_boid.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_ship",
+  "name": "obj_boid",
   "tags": [],
   "resourceType": "GMObject",
 }
